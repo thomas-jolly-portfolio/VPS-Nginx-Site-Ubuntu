@@ -1,0 +1,13 @@
+Saving debug log to /var/log/letsencrypt/letsencrypt.log
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Found the following certs:
+  Certificate Name: example.tld
+    Serial Number: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    Key Type: RSA
+    Domains: example.tld
+    Expiry Date: 2026-04-26 11:01:25+00:00 (VALID: 76 days)
+    Certificate Path: /etc/letsencrypt/live/example.tld/fullchain.pem
+    Private Key Path: /etc/letsencrypt/live/example.tld/privkey.pem
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+

@@ -1,0 +1,13 @@
+[redacted] IPs/hosts/paths anonymized for public portfolio.
+
+2026/02/09 10:21:01 [error] 1449#1449: *170 open() "/var/www/site/[redacted]" failed (2: No such file or directory), client: X.X.X.X, server: example.tld, request: "GET /[redacted] HTTP/1.1", host: "example.tld"
+2026/02/09 10:21:11 [error] 1450#1450: *172 open() "/var/www/site/[redacted]" failed (2: No such file or directory), client: X.X.X.X, server: example.tld, request: "GET /[redacted] HTTP/1.1", host: "example.tld"
+2026/02/09 10:21:35 [error] 1447#1447: *175 open() "/var/www/site/[redacted]" failed (2: No such file or directory), client: X.X.X.X, server: example.tld, request: "GET /[redacted] HTTP/1.1", host: "example.tld"
+2026/02/09 10:22:02 [error] 1448#1448: *178 open() "/var/www/site/[redacted]" failed (2: No such file or directory), client: X.X.X.X, server: example.tld, request: "GET /[redacted] HTTP/1.1", host: "example.tld"
+2026/02/09 10:22:20 [error] 1449#1449: *181 open() "/var/www/site/[redacted]" failed (2: No such file or directory), client: X.X.X.X, server: example.tld, request: "GET /[redacted] HTTP/1.1", host: "example.tld"
+2026/02/09 10:22:43 [error] 1450#1450: *184 open() "/var/www/site/[redacted]" failed (2: No such file or directory), client: X.X.X.X, server: example.tld, request: "GET /[redacted] HTTP/1.1", host: "example.tld"
+2026/02/09 10:23:10 [error] 1447#1447: *187 open() "/var/www/site/[redacted]" failed (2: No such file or directory), client: X.X.X.X, server: example.tld, request: "GET /[redacted] HTTP/1.1", host: "example.tld"
+2026/02/09 10:23:42 [error] 1448#1448: *190 open() "/var/www/site/[redacted]" failed (2: No such file or directory), client: X.X.X.X, server: example.tld, request: "GET /[redacted] HTTP/1.1", host: "example.tld"
+2026/02/09 10:24:05 [error] 1449#1449: *193 open() "/var/www/site/[redacted]" failed (2: No such file or directory), client: X.X.X.X, server: example.tld, request: "GET /[redacted] HTTP/1.1", host: "example.tld"
+2026/02/09 10:24:31 [error] 1450#1450: *196 open() "/var/www/site/[redacted]" failed (2: No such file or directory), client: X.X.X.X, server: example.tld, request: "GET /[redacted] HTTP/1.1", host: "example.tld"
+

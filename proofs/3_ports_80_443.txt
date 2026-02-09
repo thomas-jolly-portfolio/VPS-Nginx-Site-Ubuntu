@@ -1,0 +1,6 @@
+tcp   LISTEN 0      128          X.X.X.X:8072       X.X.X.X:*    users:(("python3",pid=172961,fd=6))
+tcp   LISTEN 0      32           X.X.X.X:8069       X.X.X.X:*    users:(("python3",pid=172960,fd=6),("python3",pid=172959,fd=6),("python3",pid=172958,fd=6),("python3",pid=172957,fd=6),("python3",pid=172955,fd=6))
+tcp   LISTEN 0      511          X.X.X.X:8090       X.X.X.X:*    users:(("nginx",pid=1746805,fd=8),("nginx",pid=1746804,fd=8),("nginx",pid=615,fd=8))
+tcp   LISTEN 0      4096         X.X.X.X:80         X.X.X.X:*    users:(("nginx",pid=1746805,fd=6),("nginx",pid=1746804,fd=6),("nginx",pid=615,fd=6))
+tcp   LISTEN 0      4096         X.X.X.X:443        X.X.X.X:*    users:(("nginx",pid=1746805,fd=7),("nginx",pid=1746804,fd=7),("nginx",pid=615,fd=7))
+

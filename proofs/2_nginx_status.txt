@@ -1,0 +1,16 @@
+● nginx.service - nginx - high performance web server
+     Loaded: loaded (/usr/lib/systemd/system/nginx.service; enabled; preset: enabled)
+     Active: active (running) since Fri 2025-12-12 13:12:44 UTC; 1 month 28 days ago
+       Docs: man:nginx(8)
+   Main PID: 615 (nginx)
+      Tasks: 3 (limit: 38334)
+     Memory: 2.0M
+        CPU: 13.725s
+     CGroup: /system.slice/nginx.service
+             ├─615 "nginx: master process /usr/sbin/nginx -g daemon on; master_process on;"
+             ├─1746804 "nginx: worker process"
+             └─1746805 "nginx: worker process"
+
+Feb 09 10:10:18 host-vps systemd[1]: Starting nginx.service - nginx - high performance web server...
+Feb 09 10:10:18 host-vps systemd[1]: Started nginx.service - nginx - high performance web server.
+
